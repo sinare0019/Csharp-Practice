@@ -16,3 +16,12 @@ number2 = 5;
 var operatNumber1 = ++number1;
 var operatNumber2 = number2++;
 Console.WriteLine(operatNumber1 + "\n" + operatNumber2 + " __ " + number2);
+
+//Operators Logical
+number1 = 26;
+var result = (number1 > 18) && (number1 < 25);
+Console.WriteLine(result); // rersult false
+var result2 = (number1 > 18) || (number1 < 25);
+Console.WriteLine(result2);// result true
+var result3 = !(number1 > 18);
+Console.WriteLine(result3); // result false

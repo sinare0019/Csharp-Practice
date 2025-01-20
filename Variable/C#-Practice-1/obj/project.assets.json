@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gits\\C#-Practices\\New folder\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
+      "projectUniqueName": "D:\\Gits\\Csharp-Practice\\Variable\\C#-Practice-1\\C#-Practice-1.csproj",
       "projectName": "C#-Practice-1",
-      "projectPath": "D:\\Gits\\C#-Practices\\New folder\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
+      "projectPath": "D:\\Gits\\Csharp-Practice\\Variable\\C#-Practice-1\\C#-Practice-1.csproj",
       "packagesPath": "C:\\Users\\Sina\\.nuget\\packages\\",
-      "outputPath": "D:\\Gits\\C#-Practices\\New folder\\C#-Practice-1\\C#-Practice-1\\obj\\",
+      "outputPath": "D:\\Gits\\Csharp-Practice\\Variable\\C#-Practice-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sina\\AppData\\Roaming\\NuGet\\NuGet.Config",
