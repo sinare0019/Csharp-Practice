@@ -1,0 +1,7 @@
+D:\Gits\Csharp-Practice\Delegate\C#-Practice-3\C#-Practice-3\obj\Debug\C#-Practice-3.csproj.AssemblyReference.cache
+D:\Gits\Csharp-Practice\Delegate\C#-Practice-3\C#-Practice-3\obj\Debug\C#-Practice-3.csproj.CoreCompileInputs.cache
+D:\Gits\Csharp-Practice\Delegate\C#-Practice-3\C#-Practice-3\bin\Debug\C#-Practice-3.exe.config
+D:\Gits\Csharp-Practice\Delegate\C#-Practice-3\C#-Practice-3\bin\Debug\C#-Practice-3.exe
+D:\Gits\Csharp-Practice\Delegate\C#-Practice-3\C#-Practice-3\bin\Debug\C#-Practice-3.pdb
+D:\Gits\Csharp-Practice\Delegate\C#-Practice-3\C#-Practice-3\obj\Debug\C#-Practice-3.exe
+D:\Gits\Csharp-Practice\Delegate\C#-Practice-3\C#-Practice-3\obj\Debug\C#-Practice-3.pdb
