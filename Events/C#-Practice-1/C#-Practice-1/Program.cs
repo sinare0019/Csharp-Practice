@@ -11,23 +11,30 @@ namespace C__Practice_1
     {
         static void Main(string[] args)
         {
-            MessageEvent += BeforMessage;
-            PrintMessage();
+            Print print = new Print();
+            print.MessageEvent += BeforMessage;
+            print.PrintMessage();
             Console.ReadKey();
-        }
-
-        public delegate void DlgBeforMessage();
-        public static event DlgBeforMessage MessageEvent;
-
-        public static void PrintMessage()
-        {
-            MessageEvent.Invoke();
-            Console.WriteLine("WellCom");
         }
 
         public static void BeforMessage()
         {
             Console.WriteLine("Hi");
+        }
+    }
+
+    //Publisher
+    public class Print
+    {
+        public delegate void DlgBeforMessage();
+        public event DlgBeforMessage MessageEvent;
+
+        public void PrintMessage()
+        {
+            //if (MessageEvent != null)
+              //  MessageEvent();
+            MessageEvent?.Invoke();
+            Console.WriteLine("WellCom");
         }
     }
 }

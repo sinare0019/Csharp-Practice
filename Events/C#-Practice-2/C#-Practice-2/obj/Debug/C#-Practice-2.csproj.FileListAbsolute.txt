@@ -1,0 +1,7 @@
+D:\Gits\Csharp-Practice\Events\C#-Practice-2\C#-Practice-2\bin\Debug\C#-Practice-2.exe.config
+D:\Gits\Csharp-Practice\Events\C#-Practice-2\C#-Practice-2\bin\Debug\C#-Practice-2.exe
+D:\Gits\Csharp-Practice\Events\C#-Practice-2\C#-Practice-2\bin\Debug\C#-Practice-2.pdb
+D:\Gits\Csharp-Practice\Events\C#-Practice-2\C#-Practice-2\obj\Debug\C#-Practice-2.csproj.AssemblyReference.cache
+D:\Gits\Csharp-Practice\Events\C#-Practice-2\C#-Practice-2\obj\Debug\C#-Practice-2.csproj.CoreCompileInputs.cache
+D:\Gits\Csharp-Practice\Events\C#-Practice-2\C#-Practice-2\obj\Debug\C#-Practice-2.exe
+D:\Gits\Csharp-Practice\Events\C#-Practice-2\C#-Practice-2\obj\Debug\C#-Practice-2.pdb
