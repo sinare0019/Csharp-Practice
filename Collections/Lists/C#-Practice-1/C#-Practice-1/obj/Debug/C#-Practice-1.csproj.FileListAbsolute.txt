@@ -1,0 +1,7 @@
+C:\Users\sina\Desktop\Projects\Csharp-Practice\Collections\Lists\C#-Practice-1\C#-Practice-1\bin\Debug\C#-Practice-1.exe.config
+C:\Users\sina\Desktop\Projects\Csharp-Practice\Collections\Lists\C#-Practice-1\C#-Practice-1\bin\Debug\C#-Practice-1.exe
+C:\Users\sina\Desktop\Projects\Csharp-Practice\Collections\Lists\C#-Practice-1\C#-Practice-1\bin\Debug\C#-Practice-1.pdb
+C:\Users\sina\Desktop\Projects\Csharp-Practice\Collections\Lists\C#-Practice-1\C#-Practice-1\obj\Debug\C#-Practice-1.csproj.AssemblyReference.cache
+C:\Users\sina\Desktop\Projects\Csharp-Practice\Collections\Lists\C#-Practice-1\C#-Practice-1\obj\Debug\C#-Practice-1.csproj.CoreCompileInputs.cache
+C:\Users\sina\Desktop\Projects\Csharp-Practice\Collections\Lists\C#-Practice-1\C#-Practice-1\obj\Debug\C#-Practice-1.exe
+C:\Users\sina\Desktop\Projects\Csharp-Practice\Collections\Lists\C#-Practice-1\C#-Practice-1\obj\Debug\C#-Practice-1.pdb
