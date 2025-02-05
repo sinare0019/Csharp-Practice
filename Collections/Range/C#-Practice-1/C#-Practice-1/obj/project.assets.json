@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sina\\.nuget\\packages\\": {}
+    "C:\\Users\\sina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gits\\Csharp-Practice\\Range\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
+      "projectUniqueName": "C:\\Users\\sina\\Desktop\\Projects\\Csharp-Practice\\Collections\\Range\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
       "projectName": "C#-Practice-1",
-      "projectPath": "D:\\Gits\\Csharp-Practice\\Range\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
-      "packagesPath": "C:\\Users\\Sina\\.nuget\\packages\\",
-      "outputPath": "D:\\Gits\\Csharp-Practice\\Range\\C#-Practice-1\\C#-Practice-1\\obj\\",
+      "projectPath": "C:\\Users\\sina\\Desktop\\Projects\\Csharp-Practice\\Collections\\Range\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
+      "packagesPath": "C:\\Users\\sina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sina\\Desktop\\Projects\\Csharp-Practice\\Collections\\Range\\C#-Practice-1\\C#-Practice-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
