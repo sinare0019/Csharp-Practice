@@ -1,0 +1,7 @@
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Tasks\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Tasks\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Tasks\Tasks\Tasks\bin\Debug\Tasks.exe.config
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Tasks\Tasks\Tasks\bin\Debug\Tasks.exe
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Tasks\Tasks\Tasks\bin\Debug\Tasks.pdb
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Tasks\Tasks\Tasks\obj\Debug\Tasks.exe
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Tasks\Tasks\Tasks\obj\Debug\Tasks.pdb
