@@ -1,0 +1,15 @@
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.AssemblyInfoInputs.cache
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.AssemblyInfo.cs
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.csproj.CoreCompileInputs.cache
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.sourcelink.json
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\bin\Debug\net8.0\C#-Practice-1.exe
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\bin\Debug\net8.0\C#-Practice-1.deps.json
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\bin\Debug\net8.0\C#-Practice-1.runtimeconfig.json
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\bin\Debug\net8.0\C#-Practice-1.dll
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\bin\Debug\net8.0\C#-Practice-1.pdb
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.dll
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\refint\C#-Practice-1.dll
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.pdb
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\C#-Practice-1.genruntimeconfig.cache
+C:\Users\sina\Desktop\Projects\Csharp-Practice\UnitTest\C#-Practice-1\C#-Practice-1\obj\Debug\net8.0\ref\C#-Practice-1.dll
