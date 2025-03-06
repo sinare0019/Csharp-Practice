@@ -1,0 +1,7 @@
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Monitor\Monitors\Monitors\bin\Debug\Monitors.exe.config
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Monitor\Monitors\Monitors\bin\Debug\Monitors.exe
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Monitor\Monitors\Monitors\bin\Debug\Monitors.pdb
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Monitor\Monitors\Monitors\obj\Debug\Monitors.csproj.AssemblyReference.cache
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Monitor\Monitors\Monitors\obj\Debug\Monitors.csproj.CoreCompileInputs.cache
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Monitor\Monitors\Monitors\obj\Debug\Monitors.exe
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Monitor\Monitors\Monitors\obj\Debug\Monitors.pdb

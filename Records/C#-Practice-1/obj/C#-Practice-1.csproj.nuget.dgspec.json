@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj": {}
+    "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1.csproj": {}
   },
   "projects": {
-    "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj": {
+    "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
+        "projectUniqueName": "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1.csproj",
         "projectName": "C#-Practice-1",
-        "projectPath": "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1\\C#-Practice-1.csproj",
+        "projectPath": "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1.csproj",
         "packagesPath": "C:\\Users\\Sina\\.nuget\\packages\\",
-        "outputPath": "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\C#-Practice-1\\obj\\",
+        "outputPath": "D:\\Gits\\Csharp-Practice\\Records\\C#-Practice-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sina\\AppData\\Roaming\\NuGet\\NuGet.Config",

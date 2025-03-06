@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gits\\Csharp-Practice\\Asynchronous\\Thread\\Thread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C13AF1-ED30-4BBC-8635-F1F42B169F97}|Thread\\Thread.csproj|d:\\gits\\csharp-practice\\asynchronous\\thread\\thread\\thread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C13AF1-ED30-4BBC-8635-F1F42B169F97}|Thread\\Thread.csproj|solutionrelative:thread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gits\\Csharp-Practice\\Asynchronous\\Thread\\Thread\\Thread\\Program.cs",
+              "RelativeDocumentMoniker": "Thread\\Program.cs",
+              "ToolTip": "D:\\Gits\\Csharp-Practice\\Asynchronous\\Thread\\Thread\\Thread\\Program.cs",
+              "RelativeToolTip": "Thread\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:12:03.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

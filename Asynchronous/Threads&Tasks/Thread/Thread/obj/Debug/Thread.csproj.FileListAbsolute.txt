@@ -1,0 +1,7 @@
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Thread\Thread\bin\Debug\Thread.exe.config
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Thread\Thread\bin\Debug\Thread.exe
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Thread\Thread\bin\Debug\Thread.pdb
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Thread\Thread\obj\Debug\Thread.csproj.AssemblyReference.cache
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Thread\Thread\obj\Debug\Thread.exe
+D:\Gits\Csharp-Practice\Asynchronous\Thread\Thread\Thread\obj\Debug\Thread.pdb

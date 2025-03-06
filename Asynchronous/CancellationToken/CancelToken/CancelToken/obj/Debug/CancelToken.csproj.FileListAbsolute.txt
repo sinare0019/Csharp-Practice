@@ -1,0 +1,2 @@
+D:\Gits\Csharp-Practice\Asynchronous\CancellationToken\CancelToken\CancelToken\obj\Debug\CancelToken.csproj.AssemblyReference.cache
+D:\Gits\Csharp-Practice\Asynchronous\CancellationToken\CancelToken\CancelToken\obj\Debug\CancelToken.csproj.CoreCompileInputs.cache
